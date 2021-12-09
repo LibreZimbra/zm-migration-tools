@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ivy-module xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="http://ant.apache.org/ivy/schemas/ivy.xsd">
+  <info organisation="zimbra" module="zm-jetty" status="integration"></info>
+  <dependencies>
+    <dependency org="commons-codec" name="commons-codec" rev="1.14"/>
+    <dependency org="javax.xml.soap" name="javax.xml.soap-api" rev="1.4.0"/>
+    <dependency org="log4j" name="log4j" rev="1.2.16"/>
+    <dependency org="commons-httpclient" name="commons-httpclient" rev="3.1" />
+  </dependencies>
+</ivy-module>
